@@ -1,4 +1,4 @@
-# Apresenta-o
+# Apresentação
 //acredito que imagens e Gif não vai aparecer pra voces//
 
 
@@ -10,22 +10,13 @@ utilizando html, dando a minha apresentação como se fosse um curriculo
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <metaasasa name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🌎 Ola Mundo 🌎 </title>
+    <h1>🌎 Ola Mundo 🌎 </h1>
 <link rel="stylesheet" href="meu primeiro programa basico.html">
-<style>
-body{
-
-background-color: rgb(0, 0, 0);
-color: rgb(255, 255, 255); font: 20pt normal arial;}
 
 
-</style>
-</head>
-
-<body>
   <center>
   <p>
-    <img src="C:\Users\higuc\OneDrive\Imagens\Saved Pictures\social.jpg"width=300 height=300>
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEGpOVazgmSfA/profile-displayphoto-shrink_200_200/B4DZQUd5Y5GkAc-/0/1735510169882?e=1747872000&v=beta&t=_iWY0yaYGdFJgAoAtmORb2sE-pPyYBGce2LwGUh_BQw"width=100 height=100>
   </p>
 
   
