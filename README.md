@@ -1,4 +1,3 @@
-# Apresentação
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -15,7 +14,7 @@
   </p>
 
   
-  <p style="border: solid;">Name: Dener Higuchi Alves</p>
+  <p style="border: solid;">Nome: Dener Higuchi Alves</p>
   
   </center>
 
