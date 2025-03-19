@@ -40,9 +40,9 @@ utilizando html, dando a minha apresentação como se fosse um curriculo
 </center>
 <center> <p style="border: solid;"> <strong>Programming Languages </strong> </p></center>
 <center> 
-<label for="csharp">Python <img src="C:\Users\higuc\OneDrive\Imagens\python.png"width=20 height=20> </label> 
+<label for="csharp">Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"width=50 height=50> </label> 
  <br> 
-<label for="csharp"> Javascript  <img src="C:\Users\higuc\OneDrive\Imagens\javascript-logo-1.png" width=20 height=20/> </label>
+<label for="csharp"> Javascript  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50 height=50/> </label>
 <br>
 
 <label for="csharp">Arduino <img src="C:\Users\higuc\OneDrive\Imagens\arduino.png"width=20 height=20> </label> 
@@ -61,7 +61,7 @@ utilizando html, dando a minha apresentação como se fosse um curriculo
 
  <center> <p style="border: solid;"> <strong>MEU GITHUB  </strong> </p>
  <p>
-  <img src="C:\Users\higuc\OneDrive\Imagens\github.png"width=90 height=90>
+  <img src="https://hub.asimov.academy/wp-content/uploads/2024/11/github-logo.webp"width=100 height=100>
 </p></center>
 <center>
  <button><a href="https://github.com/Denerhiguchi/DenerHiguchi/blob/main/README.md">CLIQUE AQUI </a> </button></center>
