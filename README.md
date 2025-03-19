@@ -45,19 +45,17 @@ utilizando html, dando a minha apresentação como se fosse um curriculo
 <label for="csharp"> Javascript  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=50 height=50/> </label>
 <br>
 
-<label for="csharp">Arduino <img src="C:\Users\higuc\OneDrive\Imagens\arduino.png"width=20 height=20> </label> 
+ <img src= "https://www.hubspot.com/hubfs/Arduino_Logo.svg.png" width=50 height=50> </label> 
  <br> 
  </center>
  
- <center> <p style="border: solid;"> <strong> what are your skills? </strong> </p></center>
+ <center> <p style="border: solid;"> <strong> Experiência Profissional </strong> </p></center>
 
  <center>
-   <label for="csharp">Logistics 🚛 </label> 
- <br> 
- <label for="csharp">AutoCad 2D <img src="C:\Users\higuc\OneDrive\Imagens\auto.png"width=30 height=20> </label> 
- <br> 
- <label for="csharp">Industrial hydraulic automation <img src="C:\Users\higuc\OneDrive\Imagens\robo2.png"width=30 height=20> </label> 
- <br> </center>
+   <label for="csharp"> Logística 🚛 </label> 
+ 
+<label for="csharp"> Analista de Suporte Técnico Jr 💻 </label> 
+ </center>
 
  <center> <p style="border: solid;"> <strong>MEU GITHUB  </strong> </p>
  <p>
@@ -66,9 +64,5 @@ utilizando html, dando a minha apresentação como se fosse um curriculo
 <center>
  <button><a href="https://github.com/Denerhiguchi/DenerHiguchi/blob/main/README.md">CLIQUE AQUI </a> </button></center>
 
-<script>
-
-window.alert("Seja muito bem vindo")
-  </script>
 </body>
 </html>
