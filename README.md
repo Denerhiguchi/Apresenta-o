@@ -5,7 +5,7 @@
 
 utilizando html, dando a minha apresentação como se fosse um curriculo 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -25,11 +25,10 @@ utilizando html, dando a minha apresentação como se fosse um curriculo
   </center>
 
   <ul>
-    <li>Age: 29 anos</li>
-    <li>City/ State : São Paulo - São Paulo </li>
-    <li> phone number : +55 (11) 9 8835- 4534 📱</li>
+    <li>Idade: 31 anos</li>
+    <li>Cidade: São Paulo - SP </li>
   <li> E-mail: Higuchidener@gmail.com &#x2709;</li>
-  <li> objective: IT Analyst - Information Technology  </li>
+  <li> Objetivo: Área de TI-Jr  </li>
 </ul>
 <center><h4 font: 20px normal arial; style="border: solid"><strong> Quem sou eu ?</strong> </h4>
   <br>
