@@ -1,9 +1,4 @@
 # Apresentação
-//acredito que imagens e Gif não vai aparecer pra voces//
-
-
-
-utilizando html, dando a minha apresentação como se fosse um curriculo 
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
