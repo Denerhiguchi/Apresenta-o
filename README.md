@@ -36,13 +36,12 @@
 
 <center><h4 font: 20px normal arial; style="border: solid"><strong> Quem sou eu ?</strong> </h4>
   <br>
-  <label for = "csharp"> uma pessoa nascido em 1993 na cidade SP se esforçando para ser um desenvolvedor
-  de software, estou acreditando que cada dia que passa, eu estarei me aperfeiçoando 
-    na tecnologia, para melhorar o futuro do país, assim eu poderia ajudar os necessitados na tecnologia não é algo ruim ,
-  pra mim a tecnologia salva vidas como informações, comunicação,pedidos. </label>
-
+  <label for = "csharp"> uma pessoa nascido na cidade SP se esforçando para ser um desenvolvedor
+  de software, estou estudando na faculdade FMU de análise e desenolvivmento de Sistema, agora no último semestre. 
+ acredito que cada dia que passa, eu estarei me aperfeiçoando na tecnologia, para melhorar o meu futuro Profissional.</label> </center> </br>
 </center>
-<center> <p style="border: solid;"> <strong>Programming Languages </strong> </p></center>
+
+<center> <h5 style="border: solid;"> <strong> Linguagem de Programação </strong> </h5></center>
 <center> 
 <label for="csharp">Python <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"width=50 height=50> </label> 
  <br> 
